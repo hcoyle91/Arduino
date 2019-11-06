@@ -76,3 +76,19 @@ https://github.com/hcoyle91/Arduino/tree/master/Blink%20LED
 # **Reflection:**
 This project was challenging due to me being rusty. But after I remembered stuff from last year it went well.
 
+# **LCD BACKPACK**
+
+
+# **Description:**
+
+In this assignment I learned how to use a backpack with an LCD screen. It makes it easier to use and communicate with the LCD screen.
+
+# **Code:**
+
+https://github.com/hcoyle91/Arduino/blob/master/LCD%20Backpack/LCD%20Backpack.ino
+
+# **Reflection:**
+
+This project made the LCD screen a lot easier for me. The backpack allowed me to use fewer wires. It went very smoothly.
+
+
