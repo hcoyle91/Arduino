@@ -50,3 +50,16 @@ For this project I had to create two parts in solidworks using the instructions 
 # **Reflection:**
 
 These two parts were fairly easy to create due to the instructions helping every step of the way. I had trouble creating the handle on the candlestick. It was a new type of sketch. This was a helpful skill to learn.
+
+# **PHOTOINTURUPTER**
+
+# **Description:**
+For this small project I programmed a led to Light up when anything opec passed through a photo interrupter. I order to use the photo interrupter better, I  used a function called blink.
+
+# **Code:**
+
+[Code for photointerpter](https://github.com/hcoyle91/Arduino/blob/master/photointerupter/photointerupter.ino)
+
+# **Reflection:**
+ At first I thought that I had accidentally saughterd the photo interrupter wrongly and shorted it out. I turns out my blink function was wrong. After that the project went well.
+
