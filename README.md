@@ -74,5 +74,5 @@ https://github.com/hcoyle91/Arduino/tree/master/Blink%20LED
 
 
 # **Reflection:**
-This project was challenging due to me being rusty. But after I remembered stuff from last year it went
+This project was challenging due to me being rusty. But after I remembered stuff from last year it went well.
 
