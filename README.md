@@ -91,4 +91,20 @@ https://github.com/hcoyle91/Arduino/blob/master/LCD%20Backpack/LCD%20Backpack.in
 
 This project made the LCD screen a lot easier for me. The backpack allowed me to use fewer wires. It went very smoothly.
 
+# **LCD SCREEN**
 
+# **Description:**
+
+For this tiny project I printed "hello lcd" on an lcd screen.
+
+# **Wiring:**
+
+![](https://www.arduino.cc/en/uploads/Tutorial/LCD_Base_bb_Fritz.png)
+
+# **Code:**
+
+https://github.com/hcoyle91/Arduino/blob/master/hello%20LCD/Hello%20LCD.ino
+
+# **Reflection:**
+
+This project was mildly challenging. I was new to how to code the LCD screen and all the wires were very confusing. Since there were 16 wires on the back of the lcd, it confused me. I had to redo my wiring several times to make sure those were correct. After I cleaned it up, the project worked well.
