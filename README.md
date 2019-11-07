@@ -10,11 +10,7 @@ All my small projects
 
 # **Description:**
 
-![](https://i.ytimg.com/vi/xzq9rHTsv1Y/maxresdefault.jpg)
 
-<img src="./Media/Potentiometer.jpeg" width="500", height="500">
-
-![](https://i.ytimg.com/vi/yGvZ3Jly1mI/hqdefault.jpg)
 
 # **Reflection:**
 
@@ -165,7 +161,7 @@ This project was mildly challenging. I was new to how to code the LCD screen and
 
 
 
-# **ALITTLE PRACTICE**
+# **A LITTLE PRACTICE**
 
 
 # **Description:**
