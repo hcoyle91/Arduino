@@ -4,16 +4,16 @@ volatile byte state = LOW;
 
 void setup() {
   pinMode(ledPin, OUTPUT);      // sets the variable "ledPin" pin to OUTPUT
-  pinMode(interruptPin, INPUT_PULLUP);
-  attachInterrupt(digitalPinToInterrupt(interruptPin), blink, CHANGE);
+  pinMode(interruptPin, INPUT_PULLUP);    
+  attachInterrupt(digitalPinToInterrupt(interruptPin), blink, CHANGE); 
 }
 
 void loop() {
-  digitalWrite(ledPin, state);
-Serial.println(state);
+  digitalWrite(ledPin, state);  // makes the ledpin give the signal of a variable calledd state
+Serial.println(state); // prints state in the serial moniter
 
 }
 
-void blink() {
+void blink() {    // THis defines the function known as blink which allows the photointerupter to read signal faster without delay.
   state = !state;
 }
