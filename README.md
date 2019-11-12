@@ -9,7 +9,7 @@ All my small projects
 # **POTENTIOMETER**
 
 # **Description:**
-
+For this small project, I used a potetiometer to contorol the brightness of an LED and print a potentiometer value 
 
 
 # **Reflection:**
