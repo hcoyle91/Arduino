@@ -137,6 +137,9 @@ These two parts were fairly easy to create due to the instructions helping every
 # **Description:**
 For this small project I programmed a led to Light up when anything opec passed through a photo interrupter. I order to use the photo interrupter better, I  used a function called blink.
 
+# **Wiring**
+http://osoyoo.com/wp-content/uploads/2015/04/photo-interrupter.png
+
 # **Code:**
 
 [Code for photointerpter](https://github.com/hcoyle91/Arduino/blob/master/photointerupter/photointerupter.ino)
