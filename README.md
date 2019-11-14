@@ -3,9 +3,6 @@ All my small projects
 
 
 
-
-'
-
 # **POTENTIOMETER**
 
 # **Description:**
