@@ -15,77 +15,10 @@ For this small project, used a potentiometer to determine the brightness of an L
 
 
 # **Code:**
-
-#include <LCD_HD44780.h>
-
-#include <Wire.h>
-
-#include <LiquidCrystal_I2C.h>
-
-LiquidCrystal_I2C lcd(0x27, 16, 2);
-
-int potPin = 0;
-
-int ledPin = 9;
-
-int brightness = 0;
-
-void setup()
-
-{
-
-    pinMode(ledPin, OUTPUT);
-
-    pinMode(potPin, INPUT);
-
-    Serial.begin(9600);
-
-    lcd.init();
-
-    lcd.backlight();
-
-    lcd.setCursor(0, 0);
-
-    lcd.print("Brightness:");
-
-}
-
-
-
-void loop()
-
-{
-
-    brightness = analogRead(0);
-
-    brightness = map(brightness, 0, 1023, 0, 10);
-
-    lcd.setCursor(0, 1);
-
-    lcd.print(brightness);
-
-    lcd.print("  ");
-
-    brightness = map(brightness, 0, 10, 0, 255);
-
-    analogWrite(ledPin, brightness);
-
-}
-
+https://github.com/hcoyle91/Arduino/blob/master/Pontentiometers/Pontentiometers.ino
 
 # **Reflection:**
 This project was simple until I put it all together and realized that I had to learn a new function in coding. I learned how to use the function "map" which helped scale what I was reading from the analog pin to my LCD screen or my LED.
-
-
-
-
-
-
-
-
-
-
-
 
 # **MOTOR CONTROL**
 
