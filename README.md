@@ -11,7 +11,9 @@ All my small projects
 # **Description:**
 For this small project, used a potentiometer to determine the brightness of an LED and a LCD screen to print how bright the led was. The brightness was printed on a scale of 1-10 on the LCD.
 
-# **Picture/Video**
+# **Picture**
+
+http://wiki.chssigma.com/images/thumb/5/59/Potentiometer_Wiring_Ned_Derdeyn.png/540px-Potentiometer_Wiring_Ned_Derdeyn.png
 
 
 # **Code:**
