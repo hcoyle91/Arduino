@@ -99,6 +99,9 @@ This project was challenging due to me being rusty. But after I remembered stuff
 
 In this assignment I learned how to use a backpack with an LCD screen. It makes it easier to use and communicate with the LCD screen.
 
+**Wiring:**
+http://wiki.chssigma.com/images/9/9e/LCD_Backpack_Wiring.png
+
 # **Code:**
 
 https://github.com/hcoyle91/Arduino/blob/master/LCD%20Backpack/LCD%20Backpack.ino
