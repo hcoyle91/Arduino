@@ -71,6 +71,11 @@ http://osoyoo.com/wp-content/uploads/2015/04/photo-interrupter.png
 # **Description:**
 For this tiny project I made an LED blink. It helped me remember coding from last year.
 
+
+Wiring:
+
+https://cdn.instructables.com/F60/IZJJ/I8ZQZMO9/F60IZJJI8ZQZMO9.LARGE.jpg?auto=webp&fit=bounds
+
 # **Code:**
 
 https://github.com/hcoyle91/Arduino/tree/master/Blink%20LED
