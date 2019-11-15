@@ -74,7 +74,7 @@ https://cdn.instructables.com/F60/IZJJ/I8ZQZMO9/F60IZJJI8ZQZMO9.LARGE.jpg?auto=w
 
  **Code:**
 
-https://github.com/hcoyle91/Arduino/tree/master/Blink%20LED
+https://github.com/hcoyle91/Arduino/blob/master/Blink%20LED/Blink%20LED.ino
 
 
 **Reflection:**
